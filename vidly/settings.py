@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'rocky-hollows-77123.herokuapp.com',
-    'https://git.heroku.com/rocky-hollows-77123.git'
 ]
 
 
