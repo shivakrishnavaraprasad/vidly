@@ -26,7 +26,8 @@ SECRET_KEY = 'cx&+k^w*597*@xv24x7mkev^i%-3rx)f+_wpr_#m!wj*@)i^1f'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'rocky-hollows-77123.herokuapp.com'
+    'rocky-hollows-77123.herokuapp.com',
+    'https://git.heroku.com/rocky-hollows-77123.git'
 ]
 
 
