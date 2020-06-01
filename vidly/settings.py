@@ -25,7 +25,9 @@ SECRET_KEY = 'cx&+k^w*597*@xv24x7mkev^i%-3rx)f+_wpr_#m!wj*@)i^1f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'rocky-hollows-77123.herokuapp.com'
+]
 
 
 # Application definition
