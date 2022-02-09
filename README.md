@@ -1,5 +1,7 @@
 vidly app is built with django framework. followed by mosh hamdani python course.
-vidly app is a movies rental app.
+which is a movies rental app.
+
+You can click here for demo http://rocky-hollows-77123.herokuapp.com/
 
 To clone this project 
 git clone https://github.com/shivakrishnavaraprasadvemula/vidly.git
