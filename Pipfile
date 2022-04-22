@@ -7,7 +7,7 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-django = "==2.2.26"
+django = "==2.2.28"
 pylint-django = "*"
 django-tastypie = "*"
 gunicorn = "*"
